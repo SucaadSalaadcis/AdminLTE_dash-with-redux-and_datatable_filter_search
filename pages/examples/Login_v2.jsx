@@ -32,6 +32,8 @@ export default function Login_v2() {
 
     }
 
+    // email : suu@gmail.com
+    // pass: 123
     
     return (
         <div class="hold-transition login-page">
